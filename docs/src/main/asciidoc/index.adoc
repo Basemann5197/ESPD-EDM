@@ -65,6 +65,6 @@ In order to use the snapshot version, you might have to enable the `Maven` snaps
 .build.gradle
 ----
 dependencies {
-    compile("eu.europa.ec.grow.espd:exchange-model2:2.0.0-SNAPSHOT")
+    compile("eu.europa.ec.grow.espd:exchange-model2:2.0.1")
 }
 ----
